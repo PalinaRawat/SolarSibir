@@ -1,0 +1,24 @@
+{
+  "name": "palina",
+  "homepage": "https://github.com/BoilerCamp/how-to-webdev",
+  "description": "",
+  "main": "index.html",
+  "keywords": [
+    "123"
+  ],
+  "authors": [
+    "palina"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3"
+  }
+}
